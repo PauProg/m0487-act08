@@ -7,3 +7,4 @@ Instruccions:
 1. Barrejar ingredients.
 2. Coure a 180ºC 30 minuts.
 Canvi a la branca
+Edició de main
