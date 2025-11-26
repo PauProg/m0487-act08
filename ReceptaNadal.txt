@@ -6,5 +6,9 @@ Ingredients:
 Instruccions:
 1. Barrejar ingredients.
 2. Coure a 180ºC 30 minuts.
+<<<<<<< HEAD
 Canvi a la branca
 Edició de main
+=======
+Canvi a la branca de exemple
+>>>>>>> ramaEjemplo
